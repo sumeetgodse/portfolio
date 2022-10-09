@@ -1,5 +1,11 @@
 export const Posts = [
     {
+        title: "Admin UI",
+        img: "adminui",
+        about: "A sample generic Admin UI to perform CRUD operations.",
+        visit: "https://admin-gtui.netlify.app"
+    },
+    {
         title: "LeetCode",
         img: "leetcode",
         about: "A react based web application providing leetcode solutions.",
@@ -12,16 +18,10 @@ export const Posts = [
         visit: "https://coderun.netlify.app/"
     },
     {
-        title: "Admin UI",
-        img: "adminui",
-        about: "A sample generic Admin UI to perform CRUD operations.",
-        visit: "https://admin-gtui.netlify.app"
-    },
-    {
-        title: "E-Commerce Store",
-        img: "shirt",
-        about: "A sample e-commerce store with all the basic functionalities.",
-        visit: "https://teerex-geektrust.netlify.app/"
+        title: "UI Design",
+        img: "uidesign",
+        about: "A responsive landing page design for E-Commerce Applications.",
+        visit: "https://uidesign-ai.netlify.app/"
     },
     {
         title: "Reminder App",
@@ -30,9 +30,9 @@ export const Posts = [
         visit: "https://reminderappn.netlify.app/"
     },
     {
-        title: "UI Design",
-        img: "uidesign",
-        about: "A responsive landing page design for E-Commerce Applications.",
-        visit: "https://uidesign-ai.netlify.app/"
+        title: "E-Commerce Store",
+        img: "shirt",
+        about: "A sample e-commerce store with all the basic functionalities.",
+        visit: "https://teerex-geektrust.netlify.app/"
     }
 ]
