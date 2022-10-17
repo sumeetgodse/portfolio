@@ -6,7 +6,6 @@ export default function Navbar() {
     return (
         <ul>
             <li><Link to="/">Portfolio</Link></li>
-            <li><Link to="resume">Resume</Link></li>
             <li style={{ float:"right" }}>
                 <a 
                     style={{ padding:"5px", marginRight: "10px" }}
